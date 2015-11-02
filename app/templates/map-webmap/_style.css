@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('../../fonts/glyphicons-halflings-regular.eot');
+    src: url('../../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+#mapDiv {
+    min-height: 250px;
+    max-height: 250px;
+    margin-bottom: 20px;
+}
+
+#mapLegendDiv {
+    height: 250px;
+    overflow: scroll;
+    margin-bottom: 20px;
+}
+
+#mapTitle {
+    margin-left: 15px;
+}
+
+body > .container {
+    padding-bottom: 20px;
+}
+
+/*table {*/
+/*border-collapse: ;*/
+/*border-spacing: ;*/
+/*}*/

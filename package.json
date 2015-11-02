@@ -1,0 +1,33 @@
+{
+  "name": "generator-esri-bootstrap-map",
+  "version": "0.9.8",
+  "description": "Yeoman generator for esri-bootstrap-map",
+  "license": "Apache 2.0",
+  "main": "app/index.js",
+  "repository": "knu2xs/generator-esri-bootstrap-map",
+  "author": {
+    "name": "Joel McCune",
+    "email": "joel.mccune@gmail.com",
+    "url": "https://github.com/knu2xs"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "esri",
+    "esri-bootstrap-map-js"
+  ],
+  "dependencies": {
+    "chalk": "~0.4.0",
+    "grunt": "~0.4.5",
+    "yeoman-generator": "~0.16.0",
+    "yosay": "^0.1.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}

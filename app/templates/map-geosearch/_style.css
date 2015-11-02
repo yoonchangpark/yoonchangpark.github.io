@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('../../fonts/glyphicons-halflings-regular.eot');
+    src: url('../../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+#mapDiv {
+    height: 100;
+}
+
+.simpleGeocoder {
+    margin-right: 5px;
+}
+
+/* Option 2: Geosearch in nav;
+.simpleGeocoder .esriGeocoderContainer {
+  width: 180px;
+}
+.simpleGeocoder .esriGeocoder input {
+  width: 118px;
+}
+@media (max-width: 767px) {
+  .navbar-form .form-group {
+    float: left;
+  }
+  .simpleGeocoder {
+    margin-right: 7px;
+  }
+}
+*/
